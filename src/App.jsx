@@ -6,12 +6,14 @@ import Works from "./components/works/Works";
 import Contact from "./components/contact/Contact";
 import "./app.scss";
 
+
 function App() {
   return (
-    <div className="App">
-
+    <div className="app">
+      <span class="material-icons">face</span>
  <Topbar />
    <div className="sections">
+    
     <Intro/>
     <Portfolio/>
     <Testimonials/>
