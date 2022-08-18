@@ -23,7 +23,7 @@ Ive created this app to showcase my portfolio and my journey on becoming a full 
 ## Screen Shots
 ### Portfolio
 
-![Portfolio](./assets/images/portfolio.png)
+![Portfolio](./assets/portfolio.png)
 
 
 
@@ -73,11 +73,7 @@ N/A
 ## Deployment
 
 
-Data Base URL: (https://huddle-social-media.herokuapp.com/)
+Github URL: (https://github.com/Fishgif/react-portfolio/tree/master)
 
-UI URL: (https://dapper-madeleine-783831.netlify.app/)
-
-Github URL: (https://github.com/Fishgif/project-3-ui)
-
-Github URL: (https://github.com/Fishgif/project-3)
+Deployed URL: ( https://fishgif.github.io/react-portfolio/)
 
